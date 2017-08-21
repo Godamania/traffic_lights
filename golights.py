@@ -19,6 +19,3 @@ yellowLED.off()
 redLED.on()
 sleep(1)
 redLED.off()
-
-
-#a mistake
